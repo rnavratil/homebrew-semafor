@@ -1,6 +1,6 @@
 cask "semafor" do
-  version "1.1.0"
-  sha256 "280cb3a6978e8bcec46d751c6ea68f923a085d7f1720b184d29be44efe6dc9af"
+  version "1.1.1"
+  sha256 "ef6e2de2c4a4807e700935bf93aacc49a136b174b81fbe61e11388cce05fbd74"
 
   url "https://github.com/rnavratil/semafor/releases/download/v#{version}/Semafor.zip"
   name "Semafor"
